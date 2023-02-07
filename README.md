@@ -2,9 +2,10 @@
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=geo4u&label=Profile%20views&color=0e75b6&style=flat" alt="geo4u" /> 
-<a href="https://github.com/geo4u?tab=followers"><img src="https://img.shields.io/github/followers/geo4u?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/geo4u?tab=followers"><img src="https://img.shields.io/github/followers/geo4u?label=Followers&style=social" alt="GitHub Badge">
+  ![GitHub User's stars](https://img.shields.io/github/stars/geo4u?logo=GitHub&style=flat-square)
+</a>
 </p>
-![GitHub User's stars](https://img.shields.io/github/stars/geo4u?logo=GitHub&style=flat-square)
 
 
 But, I'm still learning. :)
