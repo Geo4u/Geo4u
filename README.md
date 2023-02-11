@@ -15,5 +15,5 @@ Next on my wish list is a new PC
 I also love hiking and the beach.
 My favorite IDE is pyCharm. 
 
-Thank you for visiting my GitHub!
+Thank you for visiting my GitHub!!
 
