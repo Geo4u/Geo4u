@@ -13,7 +13,7 @@ Python, C/C++, and some verilog
 
 Next on my wish list is a new PC
 I also love hiking and the beach.
-My favorite IDE is pyCharm. 
+My favorite IDE is PyCharm CE. 
 
 Thank you for visiting my GitHub!!
 
