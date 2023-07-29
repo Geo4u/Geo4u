@@ -1,6 +1,6 @@
 # Welcome to my Repo, 
 
->I do most my work at home so barely upload here anymore
+>I do most my work at home so barely upload here anymore.
 >
 ![photo-1495954222046-2c427ecb546d](https://user-images.githubusercontent.com/122688637/217214613-fd9c88f5-ee52-44c6-bc67-6e98c6195078.jpeg)
 
