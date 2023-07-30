@@ -12,7 +12,7 @@
 </p>
 
 
->[!NOTE}\
+>[!NOTE]\
 >But, I'm still learning. :)
 Python, C/C++, and some verilog 
 
