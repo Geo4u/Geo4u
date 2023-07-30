@@ -12,10 +12,12 @@
 </p>
 
 
-But, I'm still learning. :)
+>[!NOTE}\
+>But, I'm still learning. :)
 Python, C/C++, and some verilog 
 
-Next on my wish list is a new PC
+>[!WARNING]\
+>Next on my wish list is a new PC
 I also love hiking and the beach.
 My favorite IDE is PyCharm CE. 
 My next project will be AI based.
