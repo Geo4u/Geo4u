@@ -14,7 +14,7 @@
 
 >[!NOTE]\
 >But, I'm still learning. :)
-Python, C/C++, and some verilog 
+Python, C/C++, and some Verilog.
 
 >[!WARNING]\
 >Next on my wish list is a new PC
