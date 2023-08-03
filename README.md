@@ -21,5 +21,5 @@ Python, C/C++, and some Verilog.
 I also love hiking and the beach.
 My favorite IDE is PyCharm CE. 
 My next project will be AI based.
-Thank you for visiting my [GitHub](https://github.com/Geo4u/)!
+Thank you for visiting my [GitHub](https://github.com/Geo4u/)
 
