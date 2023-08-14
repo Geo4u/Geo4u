@@ -17,9 +17,9 @@
 Python, C/C++, and some Verilog.
 
 >[!WARNING]\
->Next on my wish list is a new PC
-I also love hiking and the beach
-My favorite IDE is PyCharm CE
-My next project will be AI based
+>Next on my wish list is a new PC.
+I also love hiking and the beach.
+My favorite IDE is PyCharm CE.
+My next project will be AI based.
 Thank you for visiting my [GitHub](https://github.com/Geo4u/)!
 
