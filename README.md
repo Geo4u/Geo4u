@@ -13,7 +13,7 @@
 
 
 >[!NOTE]\
->But, I'm still learning. :)
+>But, I'm still learning. :)!
 Python, C/C++, and some Verilog!
 
 >[!WARNING]\
